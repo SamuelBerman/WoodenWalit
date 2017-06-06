@@ -1,0 +1,4 @@
+0.1: Starting version, only has text window
+0.2: Added coin counter
+0.3: Added start/stop button, scrollbar, icon, and red/green border
+0.4: Fixed "not mining" issue, added total and failed counter, fixed timing problem
