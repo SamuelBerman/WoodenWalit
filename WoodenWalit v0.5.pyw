@@ -87,7 +87,7 @@ start_stop.place(x=30, y=30, width=190, height=60)
 
 data = {"mined":0, "total":0, "failed":0}
 
-with open("private_coin_storage.txt", "r") as myfile:
+with open("private_coin_storage.txt", "w+") as myfile:
     for line in myfile.readlines():
         data["total"] += int(line.split('\t')[0])
 
