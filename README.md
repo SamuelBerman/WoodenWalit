@@ -5,4 +5,4 @@ Credit to @aaronduino (Aaron Janse) for the original mining code. This client is
 
 WoodenNickle repository: https://github.com/Aaronduino/WoodenNickle
 
-Libraries Requred: requests and pycrypto. (pycryptodome can be used for easy pip install on Windows.)
+Libraries Requred: requests and pycrypto (pycryptodome can be used for easy pip install on Windows)
